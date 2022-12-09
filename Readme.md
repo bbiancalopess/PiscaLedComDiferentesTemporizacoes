@@ -8,4 +8,4 @@ O projeto tem o intuito de pisca um led com temporizações diferentes em tempos
 
 3s aceso
 
-3s apagado# PiscaLedComDiferentesTemporizacoes
+3s apagado
